@@ -7,7 +7,8 @@ Invoice Builder est une application mobile android | IOS, qui permet a l'utilisa
 Par defaut lorsque vous ne choisissez aucun templates, l'application genere un fichier .pdf avec un model de facture de basique, pour obtenir des resulats satisfaissant vous devez donc utiliser des templates qui pour le moment ne sont pas encore operationnel
 
 ## Video de demonstration sous Android
-[![Wacth the video](video)](invoice_builder_demo.mp4)
+[![Wacth App Demo](https://github.com/misfit-franck/invoice_builder/blob/main/mockup_inspiration.jpg?raw=true)](https://github.com/misfit-franck/invoice_builder/blob/main/invoice_builder_demo.mp4)
+
 ## Fonctionnaliter disponible
 L'application possede les fonctionnaliter actuel:
 - L'authentification par Google Providers
