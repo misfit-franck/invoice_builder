@@ -46,7 +46,7 @@ class _OnBordingScreenState extends State<OnBordingScreen> {
             child: AppText(text: AppStrings.textLoginBtn)),
         imageHorizontalOffset: MediaQuery.of(context).size.width / 6,
         imageVerticalOffset: MediaQuery.of(context).size.width / 6,
-        finishButtonColor: AppColors.cPrimary,
+        // finishButtonColor: AppColors.cPrimary,
         background: [
           SvgPicture.asset(
             AppStrings.onBordingInvoiceI,
