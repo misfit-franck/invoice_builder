@@ -1,4 +1,4 @@
-# IBA 
+# IBA (Invoice Builder App)
 
 ![Mockup Apps Design](https://github.com/misfit-franck/invoice_builder/blob/main/mockup_inspiration.jpg?raw=true)
 
